@@ -1,2 +1,4 @@
 # springcloud-config
-学习springcloud的测试仓库
+springcloud-config的配置中心
+
+springcloud-config的配置中心
